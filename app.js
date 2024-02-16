@@ -153,7 +153,7 @@ function moveDino(event) {
     if (gameover) {
         return;
     }
-    if (event.code === 'Space' || event.code === 'ArrowUp' && dino.y === dinoY) {
+    if ((event.code === 'Space' || event.code === 'ArrowUp') && dino.y === dinoY) {
         velocity = -10; // jump speed
     }
 }
