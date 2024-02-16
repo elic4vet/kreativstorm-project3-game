@@ -8,7 +8,9 @@ const cactusSpawnInterval = 1000;
 const initialVelocity = -8;
 const horizontalVelocity = -4;
 const gravity = 0.4;
+const scoreIncrementInterval = 20;
 
+let frameCounter = 0;
 let board, context;
 let dino, dinoImg, dinoDeadImg;
 let cactusImages = [];
@@ -47,7 +49,7 @@ function initializeGame() {
 
 function setupEventListeners() {
     window.addEventListener('keydown', moveDino);
- 
+
 
     document.getElementById('resetButton').addEventListener('click', function () {
         location.reload();
@@ -77,7 +79,13 @@ function update() {
     updateDino();
     updateCacti();
     drawScore();
-    score++;
+
+    frameCounter++;
+    if (frameCounter >= scoreIncrementInterval) {
+        score++;
+        frameCounter = 0; // Reset frame counter
+    }
+
     requestAnimationFrame(update);
 }
 
