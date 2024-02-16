@@ -12,7 +12,6 @@
   - [What we learned](#what-we-learned)
   - [Problems we faced](#problems-we-faced)
   - [Useful resources](#useful-resources)
- 
 
 ## Overview
 
