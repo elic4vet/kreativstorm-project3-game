@@ -1,0 +1,36 @@
+/* Game */
+body {
+    background-color: #fFFFFF;
+    margin: 0;
+    padding: 0;
+    font-family: 'courier new', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    
+}
+
+canvas {
+    background-color: white;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3em;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
