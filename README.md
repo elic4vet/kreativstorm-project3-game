@@ -32,7 +32,9 @@ Computer view :
 
 ### Built with
 -HTML
+
 -CSS
+
 -JavaScript
 
 ### What we learned
