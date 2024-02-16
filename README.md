@@ -3,8 +3,6 @@
 ![Intro-image](./assets/images/dinointropic.png)
 
 ![Table of contents ](./assets/images/tableofcontents.png)
-
-## Table of contents
   - [Overview](#overview)
   - [The Project](#the-project)
   - [Screenshot](#screenshot)
