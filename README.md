@@ -21,8 +21,8 @@ We created a javascript game called Dinosaur game using HTML, CSS and JavaScript
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/basiacarvalho/kreativstorm-project1)
-- Live Site URL: [Add live site URL here](https://elic4vet.github.io/kreativstorm-project3-game/)
+- Solution URL: [Github repo](https://github.com/elic4vet/kreativstorm-project3-game)
+- Live Site URL: [Live Demo](https://elic4vet.github.io/kreativstorm-project3-game/)
 
 ### Screenshots
 Computer view :
