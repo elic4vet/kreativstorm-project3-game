@@ -22,7 +22,7 @@ We created a javascript game called Dinosaur game using HTML, CSS and JavaScript
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/basiacarvalho/kreativstorm-project1)
-- Live Site URL: [Add live site URL here](https://basiacarvalho.github.io/kreativstorm-project1/)
+- Live Site URL: [Add live site URL here](https://elic4vet.github.io/kreativstorm-project3-game/)
 
 ### Screenshots
 Computer view :
