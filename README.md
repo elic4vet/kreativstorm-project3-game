@@ -14,6 +14,7 @@
   - [Useful resources](#useful-resources)
 
 ## Overview
+![Gif demo ](<./assets/images/dino demo.gif>)
 
 ### The Project
 We created a javascript game called Dinosaur game using HTML, CSS and JavaScript. The game is a simple game where the player has to jump over obstacles to avoid them. The dinosaur has to jump over the cacti to avoid them. The game was built using HTML, CSS and JavaScript.
